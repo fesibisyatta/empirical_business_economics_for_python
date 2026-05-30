@@ -1,0 +1,2 @@
+# emprical_business_economics_for_python
+実証ビジネス・エコノミクスのpythonによる勉強用リポジトリ
