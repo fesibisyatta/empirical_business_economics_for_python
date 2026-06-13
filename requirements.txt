@@ -1,0 +1,16 @@
+pandas
+numpy
+lightgbm
+plotly
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyterlab
+openpyxl
+xlrd
+jupyter
+tqdm
+japanize-matplotlib
+mlflow
+pytest
