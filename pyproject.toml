@@ -1,5 +1,5 @@
 [project]
-name = "empirical-business-economics"
+name = "empirical_business_economics_for_python"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,6 +10,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "jupyterlab>=4.5.1",
     "lightgbm>=4.6.0",
+    "linearmodels>=7.0",
     "matplotlib>=3.10.8",
     "mlflow>=3.7.0",
     "numpy>=2.3.5",
