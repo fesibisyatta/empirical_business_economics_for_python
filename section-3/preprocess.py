@@ -83,7 +83,6 @@ if __name__ == "__main__":
     )
 
     data["hppw"] = data["HorsePower"] / data["weight"]
-
     data = data.drop(columns=["HorsePower", "weight"])
 
     # starts_with("overall") に対応
